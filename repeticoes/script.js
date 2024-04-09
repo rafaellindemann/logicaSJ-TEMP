@@ -17,5 +17,9 @@ while(cont<10){
 //     cont--
 // }
 
-let numero = 10
-let quadrado = numero ** 2
+// let numero = 10
+// let quadrado = numero ** 2
+
+let exercicio01 = document.getElementById('exercicio01')
+
+// agora o show é de vocês!!
